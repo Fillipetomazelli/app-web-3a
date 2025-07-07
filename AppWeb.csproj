@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Components\Pages\Curriculum.razor.css.cs" />
+  </ItemGroup>
+
 </Project>
